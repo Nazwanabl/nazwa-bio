@@ -1,0 +1,26 @@
+.jumbotron {
+    padding-top: 10rem;
+    padding-bottom: 2rem;
+    background-color: grey;
+}
+.top{
+    padding-top: 2rem;
+}
+.rounded-circle {
+    border: 4px solid black;
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.row{
+    padding-top: 4rem;
+}
+#Gallery{
+    background-color: grey;
+    padding-bottom: 2rem;
+}
